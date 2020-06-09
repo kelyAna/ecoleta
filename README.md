@@ -6,4 +6,3 @@ Durante a 1ª edição da Next Level Week, promovida pela Rockeatseat, produzimo
 * Node com TypeScript para o backend da aplicação
 * React Native para a aplicação mobile
 * SQlite banco de dados
-
